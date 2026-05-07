@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E293B,50:0EA5E9,75:7C3AED,100:EC4899&text=Aakaash%20Mathew&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Expert&descAlignY=58&descSize=22" width="100%" />
 </p>
@@ -46,8 +44,9 @@ Current_Project: AI Powered Movie Recommendation Platform
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mathewcrzz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mathewcrzz&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mathewcrzz&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Mathewcrzz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
