@@ -311,7 +311,7 @@ I’m interested in connecting with software testers, automation engineers, deve
   <a href="https://github.com/Mathewcrzz">
     <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/aakaash-mathew-9b5981220">
+  <a href="https://www.linkedin.com/in/aakaash-mathew-297641439/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
