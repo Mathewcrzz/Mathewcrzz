@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Automating+the+Web+with+Playwright+%2B+TypeScript;Cucumber+BDD+%7C+Page+Object+Model;Selenium+%7C+Java+%7C+TestNG+%7C+JUnit;UI+Automation+%2B+API+Testing;Quality+First.+Automation+Always." alt="Professional introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Automating+the+Web+with+Playwright+%2B+TypeScript;Cucumber+BDD+%7C+Page+Object+Model;Selenium+%7C+Java+%7C+TestNG+%7C+JUnit;UI+Automation+%2B+API+Testing;Exploring+DevOps+%26+CI%2FCD;Quality+First.+Automation+Always." alt="Professional introduction"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Aakaash Mathew**, a Software Test Engineer with **2+ years of experience** in manual, automation and API testing of web applications.
+I'm **Aakaash Mathew**, a Software Test Engineer working across manual, automation and API testing of web applications.
 
 I build **Playwright (TypeScript)** and **Cucumber BDD** frameworks using the Page Object Model, cross-browser coverage and reusable utilities. I also have working knowledge of **Selenium WebDriver with Java and TestNG**. I work in Agile/Scrum teams, track defects in Jira, test APIs with Postman, and validate backend data with SQL.
 
@@ -40,8 +40,6 @@ I enjoy turning requirements into BDD scenarios, replacing repetitive manual che
 ```ts
 const aakaash = {
   role: "Software Test Engineer (QA Automation)",
-  experience: "2+ years",
-  company: "Kasadara Technology Solutions Pvt Ltd",
   primaryStack: ["Playwright", "TypeScript", "Cucumber BDD (Gherkin)"],
   alsoWorkingWith: ["Selenium WebDriver (Java)", "TestNG", "JUnit"],
   apiTesting: ["Postman", "Playwright API Testing", "Rest Assured"],
@@ -49,6 +47,7 @@ const aakaash = {
   reporting: ["Allure", "Extent Reports", "Cucumber Reports", "Playwright HTML Reports"],
   database: ["MySQL", "SQL"],
   methodologies: ["Agile", "Scrum", "SDLC", "STLC", "BDD"],
+  interests: ["DevOps", "CI/CD", "Build Automation"],
   goal: "Build reliable, maintainable, and scalable test automation"
 };
 ```
@@ -58,22 +57,29 @@ const aakaash = {
 - ⚙️ **Automation:** Playwright, TypeScript, Cucumber BDD, Selenium WebDriver (Java)
 - 🌱 **Learning:** Advanced Playwright patterns, CI/CD pipelines and scalable automation architecture
 - 🎯 **Career focus:** QA Automation Engineer / SDET
+- ☁️ **Interested in DevOps:** CI/CD pipelines, build automation and bringing quality checks into every stage of delivery (IBM DevOps and AWS Cloud certified through Coursera)
 - 🤝 **Interested in:** Automation engineering, quality engineering and collaborative software development
 
 ---
 
 <!-- ===================================================== -->
-<!--                    EXPERIENCE                         -->
+<!--                    EDUCATION                          -->
 <!-- ===================================================== -->
 
-## 💼 Experience
+## 🎓 Education
 
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Test Engineer** | Kasadara Technology Solutions Pvt Ltd | Jan 2025 – Present |
-| Software Testing Intern | Kasadara Technology Solutions Pvt Ltd | Aug 2024 – Jan 2025 |
+B.Tech in Information Technology, Noorul Islam Centre for Higher Education
 
-**Education:** B.Tech in Information Technology, Noorul Islam Centre for Higher Education
+## 🏅 Certifications
+
+| Certificate | Issuer | Completed |
+|-------------|--------|-----------|
+| **IBM DevOps and Software Engineering** (Professional Certificate, 15 courses) | IBM · Coursera | May 2025 |
+| **AWS Cloud Solutions Architect** (Professional Certificate, 4 courses) | Amazon Web Services · Coursera | Jan 2025 |
+
+**IBM DevOps and Software Engineering** covered Agile and Scrum, Git and GitHub, Linux and shell scripting, Python, containers (Docker, Kubernetes, OpenShift), CI/CD, and monitoring and observability.
+
+**AWS Cloud Solutions Architect** covered AWS cloud essentials, architecting solutions on AWS, building data lakes on AWS, and preparation for the AWS Certified Solutions Architect – Associate exam.
 
 ---
 
@@ -129,48 +135,6 @@ const aakaash = {
 ### 🧪 Testing Types
 
 Functional · Regression · Smoke · Sanity · Integration · UAT · Exploratory · API · Cross-Browser
-
----
-
-<!-- ===================================================== -->
-<!--                 PROFESSIONAL PROJECTS                 -->
-<!-- ===================================================== -->
-
-## 🚀 Professional Projects
-
-> These were delivered for clients at Kasadara Technology Solutions, so they're described at a high level.
-
-### 01 · Nisbets: E-commerce (Catering Equipment & Supplies)
-**Nov 2025 – Present**
-
-Automated functional and regression coverage for a large e-commerce web application.
-
-- Automated scenarios across **search, cart, wishlist, checkout and order tracking** using Playwright (TypeScript) with Cucumber BDD and Gherkin (Given/When/Then).
-- Built reusable **Page Object Model** classes, step definitions and utility functions for scalable, maintainable automation.
-- Validated REST endpoints (status codes, response bodies, headers) with Playwright's **API request context**, combining API checks with UI tests to confirm end-to-end data consistency.
-- Stabilized tests using **auto-waiting, network interception and tracing**.
-- Ran smoke, sanity and regression suites before each release to confirm build stability.
-- Worked with developers, business analysts and product owners to turn requirements into BDD scenarios.
-- Logged and tracked defects in Jira, and produced **Playwright HTML, Cucumber and Allure** reports for stakeholders.
-
-**Stack:** Playwright · TypeScript · Cucumber BDD · Gherkin · Page Object Model · Allure · Jira
-
----
-
-### 02 · Healthee: Digital Health Benefits Platform
-**Feb 2025 – Nov 2025**
-
-Automated key member journeys for a digital health benefits platform.
-
-- Automated **Login, Provider Search, Plan Comparison, Coverage Check and Benefits Enrollment** flows with Playwright (TypeScript) and Cucumber BDD.
-- Built reusable Page Object Model classes, step definitions and utilities to keep the framework scalable.
-- Implemented Cucumber hooks (**Before, After, BeforeAll, AfterAll**) for setup, teardown and execution control.
-- Ran cross-browser tests on **Chromium, Firefox and WebKit**.
-- Organized smoke, sanity and regression suites with Cucumber tags (`@smoke`, `@sanity`, `@regression`) and Playwright configuration.
-- Configured Playwright's **retry mechanism** to re-run failed tests and improve result accuracy.
-- Analyzed Playwright HTML and Cucumber reports, and logged and retested defects in Jira with developers.
-
-**Stack:** Playwright · TypeScript · Cucumber BDD · Gherkin · Page Object Model · Jira · npm
 
 ---
 
@@ -235,7 +199,7 @@ Automated key member journeys for a digital health benefits platform.
 
 ## 🔄 Automation & CI/CD
 
-My goal is to make automated testing repeatable, observable and easy to maintain.
+My goal is to make automated testing repeatable, observable and easy to maintain. I'm also interested in **DevOps**, and I'm keen to learn more about how pipelines, builds and releases fit together.
 
 ```text
 Code Changes
